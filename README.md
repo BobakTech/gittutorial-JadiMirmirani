@@ -77,6 +77,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [fatemehoseinii](https://github.com/fatemehoseinii007)
 - [Mohammad Farivar](https://github.com/mohamadfarivar) :cookie::star2:
 - [Alireza Rahmani](https://github.com/AlirezaR5) 🎮
+- [Bobak Tadjalli](https://github.com/bobaktech) 👨🏻‍💻
 - [Sonia Raofee](https://github.com/soniaraofee) :computer::eyes::tea::loop:
 - [Armin Emami](https://github.com/armin-lambda) ⌨️
 - [Erfan Mousavi](https://github.com/erfanmousavi-dev) :trollface:
